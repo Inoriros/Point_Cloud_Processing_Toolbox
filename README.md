@@ -34,11 +34,16 @@
 
 **That's it!** Now your `pc_tools` environment is ready with PyTorch 2.1, CUDA 12.1, PyTorch3D, Open3D, and OpenCV.
 
+---
+## Usage
+1. **Use the functions in the `pc_tools.py` to import different kinds of point clouds**
+
+2. **Follow the `main()` in `data_processing.py` to process the imported point clouds**
+
+---
 
 
-
-
-### Aknowledgment 
+## Aknowledgment 
 
 Our code include the following PyTorch 3rd-party libraries: 
 
